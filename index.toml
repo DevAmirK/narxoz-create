@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
 hash = "89ce9993242eb071f055d3543f5362a7cce8a20167800087456cc8f01e5e8ec8"
 metafile = true
@@ -51,6 +56,11 @@ hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
+file = "mods/create-netherless.pw.toml"
+hash = "cb99d74c49c8e48d520a6eba2b33d0b3ddee3d3ca1fd30e4fb05f039b03f16e8"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
 metafile = true
@@ -68,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+metafile = true
+
+[[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
 
 [[files]]
@@ -161,6 +176,21 @@ hash = "4471a72e75f8440bb676379553e053dfda5a9ac81af80bb58aff0505b9276df8"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/tiny-mob-farm-remastered.pw.toml"
+hash = "2a36a60ca1b1bdc94849047b3442dfcc63f6e1c926fd2fa69135b64642138eb0"
+metafile = true
+
+[[files]]
+file = "mods/ui-lib.pw.toml"
+hash = "4aecbee62e1c5c4ad4cca91839f1645b92e164e6420d97b2f0088d02e5a57be2"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "2a1cc1c3d96e65e00ce71cf9ed95067ac6eca1c6f4a9dc70c305033dce448b1b"
 metafile = true
@@ -168,4 +198,9 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "1d2a1a1572c8a7f6b5d34f4b59f53b3277b1e08237831263e3ae20b0e161f4d0"
+metafile = true
+
+[[files]]
+file = "mods/yaml-config.pw.toml"
+hash = "390fb4a5f6798752bf972089fb1da0cda9aa9b5d96a76ca48ebd608006c27e6e"
 metafile = true
