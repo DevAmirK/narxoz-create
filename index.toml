@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "_bootstrap/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
 file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
 hash = "89ce9993242eb071f055d3543f5362a7cce8a20167800087456cc8f01e5e8ec8"
 metafile = true
@@ -87,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+hash = "6073dde08370f3b8f2d308913d97d31e75e4e039a5653515efa2bd62c9badbb8"
 metafile = true
 
 [[files]]
@@ -147,10 +151,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "44b846ee3e808aa31df229204385c1f5951c78993954cc0815d4109461d65917"
+hash = "2a1cc1c3d96e65e00ce71cf9ed95067ac6eca1c6f4a9dc70c305033dce448b1b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "13a4ac29feebb098bb189d37d2825e3c044a2758c7d00f28d672c50be1af91b5"
+hash = "1d2a1a1572c8a7f6b5d34f4b59f53b3277b1e08237831263e3ae20b0e161f4d0"
 metafile = true
