@@ -91,11 +91,6 @@ hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
-file = "mods/easy-gamma.pw.toml"
-hash = "abbeb65817c8f157836f42f504d1b237b4252186bf36aa6b73127469b6845044"
-metafile = true
-
-[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
@@ -163,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/resource-gamma-utils.pw.toml"
+hash = "0b06e7b4794e5ef2115d6580a5412a8f1d9e065e9f13683cb955aa0ccc5d142b"
 metafile = true
 
 [[files]]
