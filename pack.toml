@@ -1,0 +1,13 @@
+name = "Narxoz Create"
+author = "Yaggi"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7392e7c8456315299ce60f537f56688122efa929b72fe06f304cb0c5744a0ad5"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.238"

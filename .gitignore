@@ -1,0 +1,4 @@
+_*.json
+_*.txt
+*.jar
+.packwiz/
