@@ -1,0 +1,13 @@
+name = "Optimized Fullbright"
+filename = "optimized_fullbright-2.0.0+1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iEtUDGQp/versions/A4zOxg47/optimized_fullbright-2.0.0%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "0a1985f7df55242965016ae830a8c0518eae6312efaa63663c62fa7a881635d15e8acba0505088e6fde4d82ade68975ed73726b66447be5555d62295cbe79650"
+
+[update]
+[update.modrinth]
+mod-id = "iEtUDGQp"
+version = "A4zOxg47"

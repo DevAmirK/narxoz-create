@@ -31,6 +31,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/craft-config.pw.toml"
+hash = "9849c97a0d287156f7ac78ef8b8cfdac1e8eb4638a0b391be205418b49b0aed2"
+metafile = true
+
+[[files]]
 file = "mods/crawl-on-demand.pw.toml"
 hash = "3a2f05349a03cfaad8bf5bd4c89b91c180a83854003097387b4a95d1bc6a5fc0"
 metafile = true
@@ -161,8 +166,8 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
-file = "mods/resource-gamma-utils.pw.toml"
-hash = "0b06e7b4794e5ef2115d6580a5412a8f1d9e065e9f13683cb955aa0ccc5d142b"
+file = "mods/optimized-fullbright.pw.toml"
+hash = "a46d77eb157c472a0a281f07ec7040fa94d57343a951d0a243179da92a6f3fcf"
 metafile = true
 
 [[files]]
