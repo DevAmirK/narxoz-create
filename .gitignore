@@ -2,3 +2,4 @@ _*.json
 _*.txt
 *.jar
 .packwiz/
+_bootstrap/

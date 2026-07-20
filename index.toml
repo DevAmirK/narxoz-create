@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "_bootstrap/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
 file = "mods/cbc-enchanced-shells-create-big-cannons.pw.toml"
 hash = "89ce9993242eb071f055d3543f5362a7cce8a20167800087456cc8f01e5e8ec8"
 metafile = true
