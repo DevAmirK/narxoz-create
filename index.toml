@@ -141,6 +141,11 @@ hash = "7bf23d6026020d0775c9bc9b56408f8e4d1bca5f7de290dbe4468ad6f26e0bbc"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "7b3f850aabcc2bb67dd543c8bbe7b84869585856b9494b4ebb36dc9b27b3893d"
+metafile = true
+
+[[files]]
 file = "mods/just-zoom.pw.toml"
 hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
 metafile = true
@@ -233,11 +238,6 @@ metafile = true
 [[files]]
 file = "mods/tiny-mob-farm-remastered.pw.toml"
 hash = "2a36a60ca1b1bdc94849047b3442dfcc63f6e1c926fd2fa69135b64642138eb0"
-metafile = true
-
-[[files]]
-file = "mods/tmrv.pw.toml"
-hash = "40f7d1c072b54e11492e7774835901d4f5d757b01cac54947657695f580afd3a"
 metafile = true
 
 [[files]]
