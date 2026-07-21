@@ -3,3 +3,6 @@ _*.txt
 *.jar
 .packwiz/
 _bootstrap/
+
+packwiz.json
+packwiz-installer.jar
