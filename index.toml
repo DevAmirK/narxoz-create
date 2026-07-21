@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "f3d66527c4f82b44d9409f643332bc15f91b85f033afe147e3d8b421c0ea6d1e"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "5906ab9415bb5d894dc41bc4b0035d3c22e261877cf8578c2c4c45af8b4bb159"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "4b200d7009a78ce1d782d0b20585fcde46e6791bf23edf22a799a60729e924fd"
 metafile = true
 
 [[files]]
@@ -81,6 +91,11 @@ hash = "cb99d74c49c8e48d520a6eba2b33d0b3ddee3d3ca1fd30e4fb05f039b03f16e8"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
 metafile = true
@@ -98,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d1dd0981cbd7ae9601c9c4603f88826b68a0c7e76fc12ef6bc80f08188d7dfb8"
 metafile = true
 
 [[files]]
@@ -258,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-jei-index.pw.toml"
 hash = "8446f65b8ce73dbc243b90ab6ec025468cd625937f4824abaeaccfbf05822b80"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
 
 [[files]]
