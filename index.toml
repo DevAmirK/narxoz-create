@@ -71,6 +71,11 @@ hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
+file = "mods/create-jei-compat.pw.toml"
+hash = "25947bbade82915247722fa615f49f27b108a405313e43762f2c7b985e881f00"
+metafile = true
+
+[[files]]
 file = "mods/create-netherless.pw.toml"
 hash = "cb99d74c49c8e48d520a6eba2b33d0b3ddee3d3ca1fd30e4fb05f039b03f16e8"
 metafile = true
@@ -136,8 +141,18 @@ hash = "7bf23d6026020d0775c9bc9b56408f8e4d1bca5f7de290dbe4468ad6f26e0bbc"
 metafile = true
 
 [[files]]
+file = "mods/jei-enhancements.pw.toml"
+hash = "cae5630187675cec770bd6bcfec4a0a1c1ca3ed5760eebcf714197a9379c2f77"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "7b3f850aabcc2bb67dd543c8bbe7b84869585856b9494b4ebb36dc9b27b3893d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
 metafile = true
 
 [[files]]
@@ -223,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "4471a72e75f8440bb676379553e053dfda5a9ac81af80bb58aff0505b9276df8"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-jei-index.pw.toml"
+hash = "8446f65b8ce73dbc243b90ab6ec025468cd625937f4824abaeaccfbf05822b80"
 metafile = true
 
 [[files]]
