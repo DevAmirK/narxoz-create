@@ -1,9 +1,49 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/Chunky-NeoForge-1.4.23.jar"
+hash = "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
+
+[[files]]
+file = "mods/Controlling-neoforge-1.21.1-19.0.5.jar"
+hash = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
+
+[[files]]
+file = "mods/Jade-1.21.1-NeoForge-15.10.5.jar"
+hash = "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
+
+[[files]]
+file = "mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
+hash = "5f242668ad710092964d4d9afda8a94fa2401665ea13eea67d55d07e4dff8a64"
+
+[[files]]
+file = "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+hash = "7a47d69b5530704690d5a5f0726cd74a2d6c57df17dd4a8589c4ab5212f91460"
+
+[[files]]
+file = "mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+hash = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
+
+[[files]]
+file = "mods/Searchables-neoforge-1.21.1-1.0.2.jar"
+hash = "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
+
+[[files]]
+file = "mods/aeroworks-1.3.0.jar"
+hash = "f836748d2bbad5b60fffef559418b74688621bf8e77710e6e0d5437c56ed2c78"
+
+[[files]]
+file = "mods/appleskin-neoforge-mc1.21-3.0.9.jar"
+hash = "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
+
+[[files]]
+file = "mods/architectury-13.0.8-neoforge.jar"
+hash = "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -11,9 +51,17 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/balm-neoforge-1.21.1-21.0.63.jar"
+hash = "b2fb37cbd47cdbd80300c2328e42c1440cfaa9ccc8635d2867b9373792f621f5"
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "5906ab9415bb5d894dc41bc4b0035d3c22e261877cf8578c2c4c45af8b4bb159"
 metafile = true
+
+[[files]]
+file = "mods/cbc_equally_opposite-0.1.3.jar"
+hash = "76539020337eb4a28def6ed751d928db808045fce3fae6d6e1c36dd7e2ff2159"
 
 [[files]]
 file = "mods/chunky.pw.toml"
@@ -26,6 +74,10 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
+hash = "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -36,9 +88,25 @@ hash = "9849c97a0d287156f7ac78ef8b8cfdac1e8eb4638a0b391be205418b49b0aed2"
 metafile = true
 
 [[files]]
+file = "mods/craft_config-1.1.12+1.21.1-neoforge.jar"
+hash = "2b1ba9e42c04d125ac66aeb88608b14ee2ed8c9a188b078871ce36c58706717c"
+
+[[files]]
 file = "mods/crawl-on-demand.pw.toml"
 hash = "3a2f05349a03cfaad8bf5bd4c89b91c180a83854003097387b4a95d1bc6a5fc0"
 metafile = true
+
+[[files]]
+file = "mods/crawlondemand-1.21-1.21.5-1.2.0+neoforge.jar"
+hash = "ef5452a9c567c666c4e9af5e0dab8af9d0fb06387b3aadc9da5602d1b11ff25e"
+
+[[files]]
+file = "mods/create-1.21.1-6.0.10.jar"
+hash = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+
+[[files]]
+file = "mods/create-aeronautics-bundled-1.21.1-1.3.0.jar"
+hash = "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
 
 [[files]]
 file = "mods/create-aeronautics-offroad-addon-stickywheels.pw.toml"
@@ -101,9 +169,45 @@ hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
+file = "mods/create_netherless-2.0.0-1.21.1.jar"
+hash = "67b3d46046eb9c661825df4f6d72098b4e7bdf2918c5b797b16d66ee957e189d"
+
+[[files]]
+file = "mods/create_power_loader-2.0.5-mc1.21.1.jar"
+hash = "69fb0433dcba1597e7fbc06b2731ebd441f8ed99e20d8ec798d852d6865d1bd7"
+
+[[files]]
+file = "mods/create_radar-0.4.9.4-1.21.1.jar"
+hash = "4554359fee389b1c255b4cef23ac41e978b2a371cec9e952185f4ec0a90ee930"
+
+[[files]]
+file = "mods/createbigcannons-5.11.7+mc.1.21.1.jar"
+hash = "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
+
+[[files]]
+file = "mods/createdeco-2.1.3.jar"
+hash = "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+
+[[files]]
+file = "mods/createjeicompat-1.0.2.jar"
+hash = "c431ed193256a8faa2fe83e324ae3f2dcc3bd8b457b69436fa2767da37034a07"
+
+[[files]]
+file = "mods/createpropulsion-1.1.4.jar"
+hash = "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1"
+
+[[files]]
+file = "mods/easy-villagers-neoforge-1.21.1-1.1.42.jar"
+hash = "fb3a77e4efea7eca99cbb6a9eb279bff54d52a9154e1cf1da36e03c66fd39d3b"
+
+[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
+
+[[files]]
+file = "mods/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+hash = "2eacd2bada39bf1d1ef695736646790c619c0e6cdeaf3d7e3cfc9139d26fae02"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -114,6 +218,14 @@ metafile = true
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
+
+[[files]]
+file = "mods/ferritecore-7.0.3-neoforge.jar"
+hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+
+[[files]]
+file = "mods/interiors-1.21.1-neoforge-0.6.1.jar"
+hash = "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
 
 [[files]]
 file = "mods/interiors.pw.toml"
@@ -131,6 +243,14 @@ hash = "1d3b922c0d1a43fa497faf27827bfa9f9f3841dfba51d8684435d58c1141fe93"
 metafile = true
 
 [[files]]
+file = "mods/inventoryessentials-neoforge-1.21.1-21.1.17.jar"
+hash = "33654aeb1815d8ba4655c17d08f8ac0b38bebc0d6692f1820a5337a846cc0b8d"
+
+[[files]]
+file = "mods/invtweaks-1.21.1-1.3.2.jar"
+hash = "ceb5b20a43ca1c5bd707f60bb5d5fa61099c7a7ba50b19f6bddfe93f1ca0073c"
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
@@ -139,6 +259,10 @@ metafile = true
 file = "mods/jade.pw.toml"
 hash = "7bf23d6026020d0775c9bc9b56408f8e4d1bca5f7de290dbe4468ad6f26e0bbc"
 metafile = true
+
+[[files]]
+file = "mods/jei-1.21.1-neoforge-19.39.0.369.jar"
+hash = "79b6d034fa233cc87c5fe486387f69cdb54078e1262b440b5c7e7853a0254adf"
 
 [[files]]
 file = "mods/jei.pw.toml"
@@ -156,9 +280,21 @@ hash = "f565820169e3cd71f18fd0b18eab2405bc400668813d04f3f3eb75b6c8924bcc"
 metafile = true
 
 [[files]]
+file = "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+hash = "83f1701f7802d4355e57f73c2751b29e4b760a4e2a18427504bbd9ce7090a0c1"
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
+
+[[files]]
+file = "mods/konkrete_neoforge_1.9.9_MC_1.21.jar"
+hash = "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
+
+[[files]]
+file = "mods/lithium-neoforge-0.15.4+mc1.21.1.jar"
+hash = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
 
 [[files]]
 file = "mods/lithium.pw.toml"
@@ -166,8 +302,17 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-neoforge-5.27.20+mc1.21.1.jar"
+hash = "6f367ea4002c39e3cfe27e0a0be1008880a4b35a8482a78a437cfb9d8ee38273"
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "a9b5d9fb791c757bcc59b20d0cf3b1fc42f026feb7514c7ce59ee43726f3366d"
 metafile = true
 
 [[files]]
@@ -181,9 +326,25 @@ hash = "a46d77eb157c472a0a281f07ec7040fa94d57343a951d0a243179da92a6f3fcf"
 metafile = true
 
 [[files]]
+file = "mods/optimized_fullbright-2.0.0+1.21.1-neoforge.jar"
+hash = "740731bcee6854eaf9b8d0d11e128b3c41048a3d3a75c6cc0481749c5399572f"
+
+[[files]]
+file = "mods/ragdoll_corpse-1.21.1-0.3.0.jar"
+hash = "ffb17d35c82053c3c95bd3f488502350bb0877bf1837f16c5e6f86134daef2d3"
+
+[[files]]
+file = "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
+hash = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
+
+[[files]]
+file = "mods/sable-neoforge-1.21.1-2.0.3.jar"
+hash = "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
 
 [[files]]
 file = "mods/sable-ragdoll-corpse.pw.toml"
@@ -201,14 +362,26 @@ hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
+file = "mods/sable_player_ragdoll-1.21.1-0.7.5.jar"
+hash = "69611deff1c2b18ae0ae7dbaea24cc14f4b69f0368297653933ae9b33adf2d2b"
+
+[[files]]
 file = "mods/sablecompat.pw.toml"
 hash = "b9ceb0fa4707ced2e0467f334ce8b6cb2fd60c729b47aee065e2bb0d5b905189"
 metafile = true
 
 [[files]]
+file = "mods/sablephysicscompat-1.3.0.jar"
+hash = "d5dbff984a89f63ac76ad9b9bedafbced87b0092f6d8ae90e30142e8427642c6"
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
+
+[[files]]
+file = "mods/sim_copycats-1.3.1.jar"
+hash = "7220f4b785e4c7103630d6d26e04ef382e9c071392cb8b2e47cc31603e2e5343"
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
@@ -219,6 +392,10 @@ metafile = true
 file = "mods/simulated-copycats.pw.toml"
 hash = "bfe046bda32074d85647395e9eca88ff6d6d29c4b762866de437d302b81c9d53"
 metafile = true
+
+[[files]]
+file = "mods/sodium-neoforge-0.8.12+mc1.21.1.jar"
+hash = "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266"
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -241,6 +418,26 @@ hash = "8446f65b8ce73dbc243b90ab6ec025468cd625937f4824abaeaccfbf05822b80"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated_jei_index-1.0.2.jar"
+hash = "f42f4131d9b21021b1507ee1980e95355046e814ccfef72e73a05d8949a5d2ff"
+
+[[files]]
+file = "mods/sophisticatedbackpacks-1.21.1-3.25.71.1997.jar"
+hash = "1fd87cd3e19299d71d55aa2e8982976082bc667a344dee404f1ca3c0d76796bd"
+
+[[files]]
+file = "mods/sophisticatedcore-1.21.1-1.4.77.2173.jar"
+hash = "76a3d8d04bdce15ad2b6cd601d153d1650569e59d577369b9f8b2d28132de9f8"
+
+[[files]]
+file = "mods/stickywheels-1.21.1-0.0.3.jar"
+hash = "83f9b5fe1283920f98a6a7791e4ab6e101ebeba17e366aac035346e63e4a975d"
+
+[[files]]
+file = "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
+hash = "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -251,9 +448,25 @@ hash = "2a36a60ca1b1bdc94849047b3442dfcc63f6e1c926fd2fa69135b64642138eb0"
 metafile = true
 
 [[files]]
+file = "mods/tinymobfarm-1.5.2-1.21-neoforge.jar"
+hash = "b1d83c25f98d3bc30064e60f8d940de7b930bf6e006cfde7713e895e4f7c1e18"
+
+[[files]]
 file = "mods/ui-lib.pw.toml"
 hash = "4aecbee62e1c5c4ad4cca91839f1645b92e164e6420d97b2f0088d02e5a57be2"
 metafile = true
+
+[[files]]
+file = "mods/uilib-9.0.0-neoforge.jar"
+hash = "c21c19bcb1822ff934c74b86039c3d864c84e7c389dd91ac31aa0171843ad18f"
+
+[[files]]
+file = "mods/voicechat-neoforge-1.21.1-2.6.21.jar"
+hash = "901c4917960ce975cecc9a39c15d32c22beabc23ed3c36f0ce75df5a6cdd9366"
+
+[[files]]
+file = "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar"
+hash = "b722bcf794288f0ed51165cd1f057fc4505e20abbc723b2e17e900426e443603"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
@@ -266,6 +479,22 @@ hash = "1d2a1a1572c8a7f6b5d34f4b59f53b3277b1e08237831263e3ae20b0e161f4d0"
 metafile = true
 
 [[files]]
+file = "mods/xaeroworldmap-neoforge-1.21.1-1.44.2.jar"
+hash = "2c4089c2f9132b85749a18920d6e2098744f61fe98854fcff2e3768f2d7269fa"
+
+[[files]]
 file = "mods/yaml-config.pw.toml"
 hash = "390fb4a5f6798752bf972089fb1da0cda9aa9b5d96a76ca48ebd608006c27e6e"
 metafile = true
+
+[[files]]
+file = "mods/yamlconfig-9.0.0-neoforge.jar"
+hash = "752fe7e5e62e4005afbbf00d8bce0df4653637cc07ccee96f5e38fff80aeaf69"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
+
+[[files]]
+file = "packwiz.json"
+hash = "d42e866f8da0625ef69f577cc6aa50cf8f13cc2678ab35e4555d472388fc037d"
