@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".cursor/rules/neoforge-packwiz.mdc"
-hash = "fb12be86cef81f5845d1e6eb8fc064cfa8734f7b6f0ac2fdd5284eb5c2c429ee"
-
-[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "c968fda418c77a27ae7edd49b12efd85507c5996d2ae4030ad14b91cd78777bd"
 
@@ -786,10 +782,6 @@ hash = "752fe7e5e62e4005afbbf00d8bce0df4653637cc07ccee96f5e38fff80aeaf69"
 [[files]]
 file = "packwiz-installer.jar"
 hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
-
-[[files]]
-file = "packwiz.json"
-hash = "8a9785a714e85dfa12b276ed7b50636ccf80729bfe80244d3d594456883c0b30"
 
 [[files]]
 file = "resourcepacks/Dramatic Skys Demo 1.5.3.36.5.zip"
