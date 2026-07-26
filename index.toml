@@ -98,15 +98,6 @@ hash = "5906ab9415bb5d894dc41bc4b0035d3c22e261877cf8578c2c4c45af8b4bb159"
 metafile = true
 
 [[files]]
-file = "mods/carry-on.pw.toml"
-hash = "4b200d7009a78ce1d782d0b20585fcde46e6791bf23edf22a799a60729e924fd"
-metafile = true
-
-[[files]]
-file = "mods/carryon-neoforge-1.21.1-2.2.5.8.jar"
-hash = "467a03769cb981d57f3deff07f65625849a56949e84191e4d4e11ae91d2753ee"
-
-[[files]]
 file = "mods/cbc_equally_opposite-0.1.3.jar"
 hash = "76539020337eb4a28def6ed751d928db808045fce3fae6d6e1c36dd7e2ff2159"
 
