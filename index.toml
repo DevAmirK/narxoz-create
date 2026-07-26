@@ -559,11 +559,6 @@ file = "mods/optimized_fullbright-2.0.0+1.21.1-neoforge.jar"
 hash = "740731bcee6854eaf9b8d0d11e128b3c41048a3d3a75c6cc0481749c5399572f"
 
 [[files]]
-file = "mods/palas-item-clear.pw.toml"
-hash = "fae2d90ca7149166ec1da0e9a9b8899ecaa2d06bfd7c4143646c3ad79b06c751"
-metafile = true
-
-[[files]]
 file = "mods/pf-neoforge.pw.toml"
 hash = "1ef7ce6d5fe6e584914680f5463508996f0dd1c2bdbc051b8b3b050c85e134ff"
 metafile = true
