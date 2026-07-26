@@ -1,0 +1,13 @@
+name = "Pala's Item Clear"
+filename = "palas-item-clear-1.21.1-neoforge-0.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DoKkIPix/versions/PAFwuPRA/palas-item-clear-1.21.1-neoforge-0.1.1.jar"
+hash-format = "sha512"
+hash = "9070436763596a00b133fb11746bf93caed9e18068e13b61735c99e12b5cfc61c75485fbe7c03f63ab47ca19647423b78a7e37a28d7389d045ff893115625e4e"
+
+[update]
+[update.modrinth]
+mod-id = "DoKkIPix"
+version = "PAFwuPRA"

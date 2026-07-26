@@ -326,11 +326,6 @@ file = "mods/defaultoptions-neoforge-1.21.1-21.1.7.jar"
 hash = "ace2e690f35208913e74cf012dbf316cf434d12e5d8d82a4cc65dd87918719b1"
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "4a2d71be3b840f675290ca200290cacfd968e37da9cb27b83476d002d8d897c3"
-metafile = true
-
-[[files]]
 file = "mods/easy-villagers-neoforge-1.21.1-1.1.42.jar"
 hash = "fb3a77e4efea7eca99cbb6a9eb279bff54d52a9154e1cf1da36e03c66fd39d3b"
 
@@ -562,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/optimized_fullbright-2.0.0+1.21.1-neoforge.jar"
 hash = "740731bcee6854eaf9b8d0d11e128b3c41048a3d3a75c6cc0481749c5399572f"
+
+[[files]]
+file = "mods/palas-item-clear.pw.toml"
+hash = "fae2d90ca7149166ec1da0e9a9b8899ecaa2d06bfd7c4143646c3ad79b06c751"
+metafile = true
 
 [[files]]
 file = "mods/pf-neoforge.pw.toml"
