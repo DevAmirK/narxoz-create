@@ -317,6 +317,11 @@ file = "mods/defaultoptions-neoforge-1.21.1-21.1.7.jar"
 hash = "ace2e690f35208913e74cf012dbf316cf434d12e5d8d82a4cc65dd87918719b1"
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
+metafile = true
+
+[[files]]
 file = "mods/easy-villagers-neoforge-1.21.1-1.1.42.jar"
 hash = "fb3a77e4efea7eca99cbb6a9eb279bff54d52a9154e1cf1da36e03c66fd39d3b"
 
@@ -369,6 +374,11 @@ hash = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
 [[files]]
 file = "mods/forgematica.pw.toml"
 hash = "451c96f6fc12e0af29ddb579b69aa085420e638b23bbf24526997e9c7fb69dc7"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
