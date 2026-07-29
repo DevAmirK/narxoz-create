@@ -760,11 +760,6 @@ file = "mods/uilib-9.0.0-neoforge.jar"
 hash = "c21c19bcb1822ff934c74b86039c3d864c84e7c389dd91ac31aa0171843ad18f"
 
 [[files]]
-file = "mods/vinurl.pw.toml"
-hash = "54a8a8b3568063847ee35abfccc6c1b5100ebfe9db78aa96eb305cc116332315"
-metafile = true
-
-[[files]]
 file = "mods/voicechat-neoforge-1.21.1-2.6.21.jar"
 hash = "901c4917960ce975cecc9a39c15d32c22beabc23ed3c36f0ce75df5a6cdd9366"
 
