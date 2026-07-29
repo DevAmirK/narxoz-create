@@ -308,6 +308,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/datapatched.pw.toml"
+hash = "6a55a6f6cbfc43ad2e613101f9a4868916a90763d48fa7d7ec8510bc6e74b7cc"
+metafile = true
+
+[[files]]
 file = "mods/default-options.pw.toml"
 hash = "16aa04ea994ad4259363094b8aabbe069435ae4ab666c27e1b11a0f20dd90c9c"
 metafile = true
@@ -741,8 +746,8 @@ file = "mods/tinymobfarm-1.5.2-1.21-neoforge.jar"
 hash = "b1d83c25f98d3bc30064e60f8d940de7b930bf6e006cfde7713e895e4f7c1e18"
 
 [[files]]
-file = "mods/tool-trims.pw.toml"
-hash = "580c4fbb12a2f983bbe1976d02182f8b0d0660a8d4db7a6b608700903bfd948e"
+file = "mods/trimmable-tools.pw.toml"
+hash = "6fd8e11060b70e43467502cc486ec82f566a3751779cd394d4f4e5274e36a522"
 metafile = true
 
 [[files]]
@@ -753,6 +758,11 @@ metafile = true
 [[files]]
 file = "mods/uilib-9.0.0-neoforge.jar"
 hash = "c21c19bcb1822ff934c74b86039c3d864c84e7c389dd91ac31aa0171843ad18f"
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "54a8a8b3568063847ee35abfccc6c1b5100ebfe9db78aa96eb305cc116332315"
+metafile = true
 
 [[files]]
 file = "mods/voicechat-neoforge-1.21.1-2.6.21.jar"
