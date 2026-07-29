@@ -1,2 +1,4 @@
-.cursor/**
+﻿.cursor/**
 packwiz.json
+mods/*.jar
+*.jar
