@@ -322,11 +322,6 @@ file = "mods/defaultoptions-neoforge-1.21.1-21.1.7.jar"
 hash = "ace2e690f35208913e74cf012dbf316cf434d12e5d8d82a4cc65dd87918719b1"
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
-metafile = true
-
-[[files]]
 file = "mods/easy-villagers-neoforge-1.21.1-1.1.42.jar"
 hash = "fb3a77e4efea7eca99cbb6a9eb279bff54d52a9154e1cf1da36e03c66fd39d3b"
 
