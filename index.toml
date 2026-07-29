@@ -729,6 +729,11 @@ hash = "8446f65b8ce73dbc243b90ab6ec025468cd625937f4824abaeaccfbf05822b80"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "8c6a1b99d6b1987fff088ee0fe08303789dc2bf71739c392de8c3ffa13ff0b1b"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated_jei_index-1.0.2.jar"
 hash = "f42f4131d9b21021b1507ee1980e95355046e814ccfef72e73a05d8949a5d2ff"
 
