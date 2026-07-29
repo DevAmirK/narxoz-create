@@ -741,6 +741,11 @@ file = "mods/tinymobfarm-1.5.2-1.21-neoforge.jar"
 hash = "b1d83c25f98d3bc30064e60f8d940de7b930bf6e006cfde7713e895e4f7c1e18"
 
 [[files]]
+file = "mods/tool-trims.pw.toml"
+hash = "580c4fbb12a2f983bbe1976d02182f8b0d0660a8d4db7a6b608700903bfd948e"
+metafile = true
+
+[[files]]
 file = "mods/ui-lib.pw.toml"
 hash = "4aecbee62e1c5c4ad4cca91839f1645b92e164e6420d97b2f0088d02e5a57be2"
 metafile = true
