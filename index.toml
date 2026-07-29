@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".cursor/rules/neoforge-packwiz.mdc"
-hash = "479a8367755b8600c27cfdf4381531265f64b483cbc46db3d2129a7bc9c2c7f9"
-
-[[files]]
 file = "config/defaultoptions/options.txt"
 hash = "c968fda418c77a27ae7edd49b12efd85507c5996d2ae4030ad14b91cd78777bd"
 
