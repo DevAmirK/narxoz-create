@@ -176,6 +176,11 @@ hash = "ff5cc2cb323fcfc334b4975b2d23ddffa01a6c42fb9b73128f7409bc617d9f4b"
 metafile = true
 
 [[files]]
+file = "mods/create-backtank-trims.pw.toml"
+hash = "8cb60d67d0cb8b03372049a7a1ab7ea4038e1f5538f4b6abbff7a3449020e615"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons-equally-opposite.pw.toml"
 hash = "a6b68c1b0ebcaf4fa95013256679946adfc828a842a7ee9ae3579f7de135cadb"
 metafile = true
