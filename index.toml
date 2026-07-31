@@ -215,11 +215,6 @@ hash = "e542594c75eddafc1b72baebc82aa65ce2d8d791bc0ace17c731760bf30360b4"
 metafile = true
 
 [[files]]
-file = "mods/explosion-overhaul.pw.toml"
-hash = "cabd5e3f0fa757015079d657485c9bced8fc769ed2e4be62aa48a138a72e4b47"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
