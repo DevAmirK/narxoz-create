@@ -245,6 +245,11 @@ hash = "7ce307217d2e79043759700b1046b2986d51953d0d4cb042b98d9dffcf570c2f"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "673fe8cd31ae77a20af30d231825926ffd4628fe20373ba30901df02eb3b79e7"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
