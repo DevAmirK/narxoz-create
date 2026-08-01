@@ -30,11 +30,6 @@ hash = "5906ab9415bb5d894dc41bc4b0035d3c22e261877cf8578c2c4c45af8b4bb159"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "438170e7e704a1b8ed67bf0521dc5d77cdeeaabf6f729dba9f8dfdad75330acf"
-metafile = true
-
-[[files]]
 file = "mods/chloride.pw.toml"
 hash = "d828ddd116c9e2c33c85f4c3cce7691e6d217b38db14265219ed13ec4d7f8d6f"
 metafile = true
