@@ -120,6 +120,11 @@ hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
 
 [[files]]
+file = "mods/create-fast-schematic-cannon.pw.toml"
+hash = "4ae12eddd34252c6e344dd3fcc91d3d701b5cd56cdd2cea7f16fd341527cfb2e"
+metafile = true
+
+[[files]]
 file = "mods/create-jei-compat.pw.toml"
 hash = "25947bbade82915247722fa615f49f27b108a405313e43762f2c7b985e881f00"
 metafile = true
