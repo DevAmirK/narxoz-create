@@ -315,6 +315,11 @@ hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
 metafile = true
 
 [[files]]
+file = "mods/lightspeedre.pw.toml"
+hash = "a236cc73eff2718f6f3045b8c35ef88def20a9121fc2fb9e845345575b2acabf"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
