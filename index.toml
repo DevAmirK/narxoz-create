@@ -330,6 +330,11 @@ hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
 
 [[files]]
+file = "mods/more-lights.pw.toml"
+hash = "711a68d6c6e04abf38e522d9dfdc31b55f009b023a28fb2ac2b357b3be2f3905"
+metafile = true
+
+[[files]]
 file = "mods/more-overlays-updated.pw.toml"
 hash = "a9b5d9fb791c757bcc59b20d0cf3b1fc42f026feb7514c7ce59ee43726f3366d"
 metafile = true
@@ -407,6 +412,11 @@ metafile = true
 [[files]]
 file = "mods/shield-expansion.pw.toml"
 hash = "87db45eeaa826bfb058d0f6e426c8a0c5381c127c4fd1479fd2886aa48ecbda7"
+metafile = true
+
+[[files]]
+file = "mods/shine.pw.toml"
+hash = "a798b1ddcf6ce6699abdce3c48feb62453816cfeb0d01b1b75fdfcdcf44406da"
 metafile = true
 
 [[files]]
