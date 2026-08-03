@@ -415,11 +415,6 @@ hash = "87db45eeaa826bfb058d0f6e426c8a0c5381c127c4fd1479fd2886aa48ecbda7"
 metafile = true
 
 [[files]]
-file = "mods/shine.pw.toml"
-hash = "a798b1ddcf6ce6699abdce3c48feb62453816cfeb0d01b1b75fdfcdcf44406da"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "cca4b10598ae8cedcc2a6531a422453d624ceb4d1de1163ce46255415ccda045"
 metafile = true
