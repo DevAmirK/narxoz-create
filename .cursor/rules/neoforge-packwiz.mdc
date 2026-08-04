@@ -1,0 +1,33 @@
+---
+description: Prevent packwiz from breaking PolyMC NeoForge (vanilla launch bug)
+alwaysApply: true
+---
+
+# NeoForge + packwiz (PolyMC) — do not break the loader
+
+This pack uses packwiz for **mods only**. NeoForge lives in the PolyMC instance (`mmc-pack.json`), not in packwiz.
+
+## Hard rules
+
+1. **Never** add `neoforge = "..."` (or any loader) to `pack.toml` `[versions]`. Only `minecraft = "1.21.1"`.
+2. **Never** change PolyMC PreLaunch to bats, `&&`, powershell, or bootstrap wrappers. Keep exactly:
+   `"$INST_JAVA" -jar "$INST_MC_DIR/packwiz-installer-bootstrap.jar" -g https://devamirk.github.io/narxoz-create/pack.toml`
+3. **Never** ship/replace `packwiz-installer-bootstrap.jar` via the pack index, or add `fix-neoforge` scripts that rewrite launch.
+4. PolyMC NeoForge uid must be `net.neoforged.neoforge` (not `net.neoforged`). Packwiz writes the wrong uid and causes **vanilla** launch.
+5. Instance zip for friends must include correct `mmc-pack.json` + bootstrap jar. Friends fix loader by **new zip**, not by pack.toml hacks.
+6. **Never** let Cursor/meta junk into the packwiz index. Keep `.packwizignore` with at least `.cursor/**` and `packwiz.json`. After every `packwiz refresh`, confirm `index.toml` has no `.cursor/`, `packwiz.json`, or other non-game files before push.
+7. **Never add/remove a mod without explicit consent.** Asking about a mod, discussing it, or listing candidates is **not** permission to install. Always ask first: «Добавить?» / «Удалить?» — and wait for a clear yes. Same for config/resourcepack pack changes that ship to friends.
+8. **After any consented add/remove (or other pack change that must reach friends): immediately `packwiz refresh` → commit → `git push`.** Do not stop at “added locally, say if you want push.” Push is part of the same task unless the user says not to push.
+
+## Why (do not “fix” this again)
+
+- With `neoforge` in `pack.toml`, packwiz-installer writes uid `net.neoforged` → PolyMC ignores it → vanilla `Main Class`.
+- Without `neoforge` in `pack.toml`, packwiz **deletes** any `net.neoforged` component on every Play. Correct `net.neoforged.neoforge` is left alone.
+- PreLaunch `&&` / bat wrappers previously broke packwiz args and friend installs.
+- Adding mods unprompted (or after a casual question) burned trust; waiting to ask about push after an approved add leaves friends on stale Pages.
+
+## Safe workflow
+
+- Discuss/recommend mods → **ask consent** → only then add/remove with packwiz → `packwiz refresh` → verify index clean → **commit + push** in the same turn.
+- Need a new NeoForge version or healthy loader for friends → rebuild **instance zip** with updated `mmc-pack.json`, do not put loader in `pack.toml`.
+- Before pushing `pack.toml`, confirm `[versions]` has **only** `minecraft`.

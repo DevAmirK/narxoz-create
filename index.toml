@@ -85,6 +85,11 @@ hash = "3a2f05349a03cfaad8bf5bd4c89b91c180a83854003097387b4a95d1bc6a5fc0"
 metafile = true
 
 [[files]]
+file = "mods/create-access-denied.pw.toml"
+hash = "681f6ca6f8189dfc2d802c1852d8b0d5fef63f9f314f299da96be2887301ec91"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-offroad-addon-stickywheels.pw.toml"
 hash = "2775edce751c45495239dca97bd753311489b9b5187005277c1d5d959954c6e3"
 metafile = true
