@@ -115,6 +115,11 @@ hash = "b8e662516d509fc3fcc6036955373de4760e3c43093f31117cef927fb7e4e619"
 metafile = true
 
 [[files]]
+file = "mods/create-cyber-goggles.pw.toml"
+hash = "cc73a42c977ef1e510d2489649f4b3afc9d842e02c1101d6aabfd634686316d0"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
 metafile = true
@@ -180,8 +185,23 @@ hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
 metafile = true
 
 [[files]]
+file = "mods/create-xaeros-map.pw.toml"
+hash = "8ee0f2f7084ea854142455a0a290018e30c144b31d2fa2fd6b5254cbe5ee71be"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+metafile = true
+
+[[files]]
+file = "mods/createbetterfps.pw.toml"
+hash = "28e720db43464fe32b9ce591fb02b824ebf691c578fb694f87a98421d3207022"
+metafile = true
+
+[[files]]
+file = "mods/createlazytick.pw.toml"
+hash = "ffbf8c624cd4d3eefba4c714b932fb9201b202b2d785657ee61af5a6c04b7da7"
 metafile = true
 
 [[files]]
