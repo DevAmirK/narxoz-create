@@ -30,6 +30,16 @@ hash = "5906ab9415bb5d894dc41bc4b0035d3c22e261877cf8578c2c4c45af8b4bb159"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "a85080c785e75b0bcddae3e14d7644d57e8eee0cf7ce4b670ee9e2bd2db6b886"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "e7b1b17efc6edcf454e6b48d8fb873031fdcc840e9bd9b7354af2cb08d67e6b4"
+metafile = true
+
+[[files]]
 file = "mods/chloride.pw.toml"
 hash = "d828ddd116c9e2c33c85f4c3cce7691e6d217b38db14265219ed13ec4d7f8d6f"
 metafile = true
