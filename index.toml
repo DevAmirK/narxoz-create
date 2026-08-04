@@ -515,6 +515,16 @@ hash = "4aecbee62e1c5c4ad4cca91839f1645b92e164e6420d97b2f0088d02e5a57be2"
 metafile = true
 
 [[files]]
+file = "mods/vchat-fabric.pw.toml"
+hash = "5372c76aa7efc19f0e5999fc8aab11bfcc53c8f6eaabbf8e4e3bfbee9a0967c1"
+metafile = true
+
+[[files]]
+file = "mods/whenchat.pw.toml"
+hash = "e28340fc04d9fbfb1d13a09388a5c5a105f29de566e2e44532e7b00a5476a9f6"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "2a1cc1c3d96e65e00ce71cf9ed95067ac6eca1c6f4a9dc70c305033dce448b1b"
 metafile = true
