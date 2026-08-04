@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-xaeros-map.pw.toml"
-hash = "3c804053fe70008949d47c403bc1dbb2a205ad272c0347c88b403acf99f8bbfd"
+hash = "a0af83650a11222a411027d85cb1e97d5eb14dc64788db48c21a65f48daf453b"
 metafile = true
 
 [[files]]
