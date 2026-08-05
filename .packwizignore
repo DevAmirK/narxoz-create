@@ -5,4 +5,5 @@
 packwiz.json
 mods/*.jar
 *.jar
+config/DistantHorizons.toml
 
