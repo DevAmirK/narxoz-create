@@ -535,6 +535,11 @@ hash = "4aecbee62e1c5c4ad4cca91839f1645b92e164e6420d97b2f0088d02e5a57be2"
 metafile = true
 
 [[files]]
+file = "mods/voxy.pw.toml"
+hash = "e111a41c240a5134727f9288d123a56c0af7e396325da3282e29f2f90b2eb07f"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "2a1cc1c3d96e65e00ce71cf9ed95067ac6eca1c6f4a9dc70c305033dce448b1b"
 metafile = true
