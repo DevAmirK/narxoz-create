@@ -1,24 +1,28 @@
-# Distant Horizons defaults tuned for weak/iGPU clients (AMD APU friendly).
-# Players can override in Options → Distant Horizons.
-# Quality preset LOW, light CPU load, modest LOD distance.
+# Distant Horizons defaults for this pack (shipped via packwiz).
+# Quality/CPU tuned for weaker clients; warnings silenced for everyone.
 
 [client]
-	# LOW / MEDIUM / HIGH / EXTREME
 	qualityPreset = "LOW"
-	# MINIMAL_IMPACT / LOW / BALANCED / AGGRESSIVE
 	cpuLoad = "LOW"
-	# Vanilla render distance stays separate; this is LOD distance (chunks)
 	maxHorizontalResolution = "BLOCK"
-	# Keep generation gentle so FPS does not die while LODs build
 	enableDistantGeneration = true
 
 [client.advanced.graphics]
-	# Prefer cheaper draw on integrated GPUs
 	lodChunkRenderDistanceRadius = 128
 	disableDhFovEffects = true
 
 [client.advanced.threading]
-	# Ryzen 5625U has 12 threads — do not peg them all for LOD build
 	numberOfWorldGenerationThreads = 2.0
 	numberOfBufferBuilderThreads = 2
 	numberOfFileHandlerThreads = 2
+
+[common.logging.warning]
+	# Hide chat spam on world join (Chunky/G1/etc.)
+	showModCompatibilityWarningsOnStartup = false
+	logGarbageCollectorWarning = false
+	showLowMemoryWarningOnStartup = false
+	showPoolInsufficientMemoryWarning = false
+	showHighVanillaRenderDistanceWarning = false
+	showReplayWarningOnStartup = false
+	showUpdateQueueOverloadedChatWarning = false
+	showSlowWorldGenSettingWarnings = false

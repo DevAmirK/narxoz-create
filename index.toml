@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "389ab963a319c2965631245f64630a22058ef6d29028c892b97f2daafea07b23"
+hash = "8fdb8aa9e87b2173c6574742a439c3a533758a945416d7025b61227fef96851b"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
