@@ -1,8 +1,0 @@
-name = "Voxy (NeoForge port)"
-filename = "voxy-neoforge-0.2.1.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/DevAmirK/narxoz-create/main/jars/voxy-neoforge-0.2.1.jar"
-hash-format = "sha512"
-hash = "722a49e8a1af258871f53004e96c65dea9871aadee0b4f0a0a9b4dd6d9b9c961d1c0c83714a116b95e69b8355239171af7876493a9c399e7582cbe5e7cd4db57"
