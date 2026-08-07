@@ -75,6 +75,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/countereds-smooth-f5.pw.toml"
+hash = "9015eef0aa725b973bc9dac06031e2f249e52527849d868770673f55cdeb3695"
+metafile = true
+
+[[files]]
 file = "mods/craft-config.pw.toml"
 hash = "9849c97a0d287156f7ac78ef8b8cfdac1e8eb4638a0b391be205418b49b0aed2"
 metafile = true
@@ -375,6 +380,11 @@ hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
+file = "mods/mod-menu-(neoforge-edition).pw.toml"
+hash = "1a17dcb130a85f5fe951e5187d6e4ffcfcbf7e5c6bf9f6ccb453431c0692143e"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
 metafile = true
@@ -487,6 +497,16 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "47f7a98662dff8dae871424d210f1f8144617140a9d84b9f502a6d620c124883"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-reforged.pw.toml"
+hash = "9565e5d2ba8c93fc6c2bb530ce80fac864205a0fd136e4bec4e3797ba230b032"
+metafile = true
+
+[[files]]
+file = "mods/smooth-swapping.pw.toml"
+hash = "c29444a15935e622aaf6a8849cbed78095c1f9328315383a382859b3872d97ee"
 metafile = true
 
 [[files]]
