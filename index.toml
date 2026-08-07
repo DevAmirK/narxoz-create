@@ -75,11 +75,6 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
-file = "mods/countereds-smooth-f5.pw.toml"
-hash = "9015eef0aa725b973bc9dac06031e2f249e52527849d868770673f55cdeb3695"
-metafile = true
-
-[[files]]
 file = "mods/craft-config.pw.toml"
 hash = "9849c97a0d287156f7ac78ef8b8cfdac1e8eb4638a0b391be205418b49b0aed2"
 metafile = true
@@ -497,16 +492,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "47f7a98662dff8dae871424d210f1f8144617140a9d84b9f502a6d620c124883"
-metafile = true
-
-[[files]]
-file = "mods/smooth-scrolling-reforged.pw.toml"
-hash = "b419c711a01bccbdc05a50788e66ee65648e801b728d737ff7aeea5e6b21b512"
-metafile = true
-
-[[files]]
-file = "mods/smooth-swapping.pw.toml"
-hash = "c29444a15935e622aaf6a8849cbed78095c1f9328315383a382859b3872d97ee"
 metafile = true
 
 [[files]]
