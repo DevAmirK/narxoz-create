@@ -50,6 +50,11 @@ hash = "d828ddd116c9e2c33c85f4c3cce7691e6d217b38db14265219ed13ec4d7f8d6f"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "9575467d028ab1fdc03c957b8932e3d6d45693a151061cc956ea827226d22bde"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
