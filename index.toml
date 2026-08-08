@@ -245,11 +245,6 @@ hash = "16aa04ea994ad4259363094b8aabbe069435ae4ab666c27e1b11a0f20dd90c9c"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "4a2d71be3b840f675290ca200290cacfd968e37da9cb27b83476d002d8d897c3"
-metafile = true
-
-[[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "d629988991e4e0c461a5031b8c774c184ef409f5b57187211c3abe5b1a21fc3c"
 metafile = true
