@@ -200,6 +200,11 @@ hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails-1.21.1.pw.toml"
+hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
+metafile = true
+
+[[files]]
 file = "mods/create-stone-generators.pw.toml"
 hash = "03618ecf9f2978422867cc0d8ed1809882b841129cd1a0b54eb0e4060ae661ce"
 metafile = true
